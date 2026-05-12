@@ -37,9 +37,9 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 **Medios** (donde se tiene presencia): 
 
 
-*  :octocat: (github url) 
-* Twitter 
-*  
+* :octocat: (github url) 
+* Landing Page: ``URL landing page``
+ 
 
 
 
@@ -49,12 +49,11 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 ### Misión
 
 
+ ``Manifiesto de la comunidad ``
+
 
 #### Vision
 
-
-
- 
 
 
 
@@ -65,7 +64,10 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences) 
 
-### Etapa 1: Ideación de proyecto 
+(Fundamentos)
+
+
+## Etapa 1: Ideación de proyecto 
 
 Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
 
@@ -92,35 +94,41 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 ### Personas/Usuarios
 (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
 
+``Diseño de persona con characterAI``
 
-## Etapa: Prototipar / productos 
+
+## Etapa 2: Prototipar / productos 
 
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
 
 * Imagen visual **moodboard**
 
-     (Portada / Diseño de Interfaz) y herramienta usada 
+     (Portada / Diseño de Interfaz) y herramienta usada
+     ``moodboard``
 
 * redes sociales (...) 
 
-* publicidad/promoción: **landing page** 
+* publicidad/promoción:
+    ``landing page``
+
 
 * proyecto: grado de conclusión
 
+    ``comunidad elgg``
 
 
-## Producción y evaluación
+## Etapa 3: Producción y evaluación
 
 (Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
 
 
 
 
-#### Estrategia para diseñar comunidada
+### Estrategia para diseñar comunidada
 
 
 
-#### Preguntas frecuentes
+### Preguntas frecuentes
 
 
 
