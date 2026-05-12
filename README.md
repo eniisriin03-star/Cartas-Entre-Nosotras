@@ -1,15 +1,20 @@
-# ideapolis. proyecto: (nombre) 
+### ideapolis 
+## proyecto: (nombre) 
 
 ``Plantilla para crear un proyecto de ideapolis``
+
+
 Proyecto de Inteligencia Colectiva y Formación en la Empresa 
 
 [Master en Gestión y Tecnologías de Procesos de Negocio](https://masteres.ugr.es/mbagestiontic/)
 
 ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
+<br> 
+<br>
 
 
-----
+
 
 **Titulo** : _______
 
@@ -34,9 +39,9 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 * Twitter 
 *  
 
-----
 
-### ¿Quiénes somos?
+
+## ¿Quiénes somos?
 
 
 ### Misión
@@ -52,9 +57,9 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 
 
------ 
 
-### Metodología
+
+## Metodología
 
 Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences) 
 
@@ -72,21 +77,21 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 
 
-#### Necesidad/oportunidad
+### Necesidad/oportunidad
 
 
 > dafo
 
 
-#### Motivación de la propuesta
+### Motivación de la propuesta
 
 ¿ por qué consideras interesante ? 
 
-#### Personas/Usuarios
+### Personas/Usuarios
 (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
 
 
-### Etapa 2: Prototipar / productos 
+## Etapa: Prototipar / productos 
 
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
 
@@ -101,14 +106,15 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 * proyecto: grado de conclusión
 
 
-### Etapa 3: Técnicas de evaluación utilizadas
+
+## Producción y evaluación
 
 (Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
 
 
 
 
-#### Test con usuarios (...) 
+#### Estrategia para diseñar comunidada
 
 
 
@@ -116,7 +122,7 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 
 
-### Conclusiones y trabajo futuro
+## Conclusiones y trabajo futuro
 
 
 * Grado de consecución del proyecto 
@@ -129,17 +135,14 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 
 
-----
 
-**Referencias y recursos utilizados** :
+## Referencias y recursos
 
 * [Proceso UX](https://uxmastery.com/resources/process/)
 * [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
 * [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html) 
 * [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) 
 * (...) 
-
-(...)
 * (Artículos ..  )
 * (Productos utilizados ) 
 * (Recursos tipo Imágenes, videos , etc.) 
@@ -147,4 +150,4 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 
 
-
+Granada, Junio 202X
