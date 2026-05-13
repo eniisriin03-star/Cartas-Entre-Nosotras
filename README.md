@@ -1,5 +1,5 @@
 ### ideapolis 
-## proyecto: Cartas Entre Nosotras
+# Proyecto: Cartas Entre Nosotras
 
 ``Plantilla para crear un proyecto de ideapolis``
 
